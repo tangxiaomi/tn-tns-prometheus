@@ -1,0 +1,169 @@
+<StackLayout>
+   <TextView text="Step 1: Key Information"></TextView>
+    <StackLayout row="0" col="0">
+    <Label class="keyboard-item gray" text="Account DID"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+        <TextField keyboardType="email" class="inputBox"
+          autocorrect="false" autocapitalizationType="none">
+        </TextField>
+    </StackLayout>
+
+   <StackLayout row="0" col="0">
+      <Label class="keyboard-item gray" text="TSE Name"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+        <TextField keyboardType="email" class="inputBox"
+          autocorrect="false" autocapitalizationType="none">
+        </TextField>
+      </StackLayout>
+
+    <StackLayout row="0" col="0">
+      <Label class="keyboard-item gray" text="TalentNetwork URL"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+      <TextField keyboardType="email" class="inputBox"
+        autocorrect="false" autocapitalizationType="none">
+      </TextField>
+    </StackLayout>
+
+    <StackLayout row="0" col="0">
+      <Label class="keyboard-item gray" text="Default Language"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+      <TextField keyboardType="email" class="inputBox"
+        autocorrect="false" autocapitalizationType="none">
+      </TextField>
+    </StackLayout>
+  </StackLayout>
+
+
+  <StackLayout>
+   <TextView text="Step 2: Configuration Options"></TextView>
+   <TextView text="Emails:"></TextView>
+    <StackLayout row="0" col="0">
+    <Label class="keyboard-item gray" text="From Name"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+        <TextField keyboardType="email" class="inputBox"
+          autocorrect="false" autocapitalizationType="none">
+        </TextField>
+    </StackLayout>
+
+   <StackLayout row="0" col="0">
+      <Label class="keyboard-item gray" text="From Email"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+        <TextField keyboardType="email" class="inputBox"
+          autocorrect="false" autocapitalizationType="none">
+        </TextField>
+      </StackLayout>
+
+    <StackLayout row="0" col="0">
+      <Label class="keyboard-item gray" text="Email Header"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+      <TextField keyboardType="email" class="inputBox"
+        autocorrect="false" autocapitalizationType="none">
+      </TextField>
+    </StackLayout>
+
+    <StackLayout row="0" col="0">
+      <Label class="keyboard-item gray" text="Email Footer "></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+      <TextField keyboardType="email" class="inputBox"
+        autocorrect="false" autocapitalizationType="none">
+      </TextField>
+    </StackLayout>
+  </StackLayout>
+
+
+  <StackLayout>
+   <TextView text="Colors:"></TextView>
+    <StackLayout row="0" col="0">
+    <Label class="keyboard-item gray" text="Primary Color"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+        <TextField keyboardType="email" class="inputBox"
+          autocorrect="false" autocapitalizationType="none">
+        </TextField>
+    </StackLayout>
+
+   <StackLayout row="0" col="0">
+      <Label class="keyboard-item gray" text="Secondary Color"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+        <TextField keyboardType="email" class="inputBox"
+          autocorrect="false" autocapitalizationType="none">
+        </TextField>
+      </StackLayout>
+  </StackLayout>
+
+
+  <StackLayout>
+   <TextView text="Media URLs:"></TextView>
+    <StackLayout row="0" col="0">
+    <Label class="keyboard-item gray" text="Logo URL"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+        <TextField keyboardType="email" class="inputBox"
+          autocorrect="false" autocapitalizationType="none">
+        </TextField>
+    </StackLayout>
+
+   <StackLayout row="0" col="0">
+      <Label class="keyboard-item gray" text="Header Image URL"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+        <TextField keyboardType="email" class="inputBox"
+          autocorrect="false" autocapitalizationType="none">
+        </TextField>
+      </StackLayout>
+
+      <StackLayout row="0" col="0">
+       <Label class="keyboard-item gray" text="Mobile Logo URL"></Label>
+     </StackLayout>
+     <StackLayout row="0" col="0">
+        <TextField keyboardType="email" class="inputBox"
+          autocorrect="false" autocapitalizationType="none">
+        </TextField>
+      </StackLayout>
+
+      <StackLayout row="0" col="0">
+      <Label class="keyboard-item gray" text="Mobile Logo URL"></Label>
+    </StackLayout>
+    <StackLayout row="0" col="0">
+       <TextField keyboardType="email" class="inputBox"
+         autocorrect="false" autocapitalizationType="none">
+       </TextField>
+     </StackLayout>
+
+     <StackLayout row="0" col="0">
+     <Label class="keyboard-item gray" text="Home Page Image URL"></Label>
+   </StackLayout>
+   <StackLayout row="0" col="0">
+      <TextField keyboardType="email" class="inputBox"
+        autocorrect="false" autocapitalizationType="none">
+      </TextField>
+    </StackLayout>
+
+    <StackLayout row="0" col="0">
+    <Label class="keyboard-item gray" text="Video URL"></Label>
+  </StackLayout>
+  <StackLayout row="0" col="0">
+     <TextField keyboardType="email" class="inputBox"
+       autocorrect="false" autocapitalizationType="none">
+     </TextField>
+   </StackLayout>
+
+
+   <StackLayout row="0" col="0">
+    <Label class="keyboard-item gray" text="Join Logo Image URL"></Label>
+  </StackLayout>
+  <StackLayout row="0" col="0">
+     <TextField keyboardType="email" class="inputBox"
+       autocorrect="false" autocapitalizationType="none">
+     </TextField>
+   </StackLayout>
+  </StackLayout>
